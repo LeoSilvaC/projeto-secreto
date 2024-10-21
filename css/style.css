@@ -1,0 +1,33 @@
+.cbc {
+  display: flex;
+  justify-content: center;
+  margin-top: 1rem;
+}
+
+.container {
+  background-color: #74747c;
+  margin: 2rem;
+  justify-content: center;
+  padding: 0.5rem;
+}
+
+.cbc-pessoa{
+  display: flex;
+  justify-content: space-between;
+}
+
+.item {
+  display: flex;
+  padding-top: 0.5rem;
+  justify-content: space-between;
+}
+
+.cbc-pessoa {
+  display: flex;
+}
+
+.rodape-total {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 0.5rem;
+}
